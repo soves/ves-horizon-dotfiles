@@ -2,4 +2,4 @@
 horizon themed i3 rice
 
 deps:
-``i3 polybar alacritty```
+```i3 polybar alacritty```
